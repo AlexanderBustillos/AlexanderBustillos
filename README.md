@@ -1,7 +1,21 @@
 ### Hi there 👋 I  am Alex 😸
-I am currently a student CU Boulder
-
+I am currently a student CU Boulder, I enjoy coding and fascinated with embeded systems and robotics.
 ![CUBoulder Image](https://www.cu.edu/sites/default/files/cu-standalone.png)
+
+### Languages I use/used
+#### C
+![C](https://img.shields.io/badge/Code-C-blue?logo=c)
+#### C++
+![C++](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus)
+#### Python
+![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
+#### Arduino
+![Arduino](https://img.shields.io/badge/Hardware-Arduino-00979D?logo=arduino&logoColor=white)
+#### Verilog
+![Verilog](https://img.shields.io/badge/HDL-Verilog-red)
+#### MATLAB
+![MATLAB](https://img.shields.io/badge/Tool-MATLAB-orange?logo=mathworks)
+
 
 ### I am currently learning
 #### ECEN 2000 - 400: ECE as a profession 
