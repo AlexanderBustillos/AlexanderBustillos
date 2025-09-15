@@ -51,7 +51,7 @@ Apply computer vision topics to applications outside of the classroom
 Develop a deep understanding of various advanced computer vision techniques and algorithms  
 Analyze complex computer vision problems and design a solution for various problems
 
-# Previous courses I've taken that are relevant 
+### Previous courses I've taken that are relevant 
 #### CSCI 2
 #### CSCI 1
 #### Digital Logic
@@ -59,10 +59,17 @@ Analyze complex computer vision problems and design a solution for various probl
 #### Applications of embedded systems
 
 
-# Goals
+### Goals
 
 I want to earn a bachelor’s degree from the University of Colorado Boulder in a 4 year time span, graduating in the year 2027.  
 I want to use GitHub to present my accomplishments and projects to look back on and for employers to see what I am capable of.
 After I graduate, I hope to get a job in hardware design, software development, telecommunications, robotics, embedded systems, or power systems. 
 Getting into different industries like semiconductors (Intel, Texas Instruments), telecommunications (Qualcomm, Cisco), consumer electronics (Samsung, LG), automotive and power (Bosch, Siemens), defense and aerospace (ISRO, DRDO), and IT services (TCS, Wipro).
 
+### Where to contact me
+
+https://www.linkedin.com/in/alexander-bustillos-580a7129a/
+
+Personal Email: alexanderbustillos1@gmail.com
+
+School Email: aobustillos@mavs.coloradomesa.edu
