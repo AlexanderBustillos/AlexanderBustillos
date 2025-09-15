@@ -70,7 +70,9 @@ Getting into different industries like semiconductors (Intel, Texas Instruments)
 
 ### Where to contact me ✍🏻
 
-https://www.linkedin.com/in/alexander-bustillos-580a7129a/
+LinkedIn: https://www.linkedin.com/in/alexander-bustillos-580a7129a/
+
+GitHub: https://github.com/AlexanderBustillos
 
 Personal Email: alexanderbustillos1@gmail.com
 
