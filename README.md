@@ -51,6 +51,14 @@ Apply computer vision topics to applications outside of the classroom
 Develop a deep understanding of various advanced computer vision techniques and algorithms  
 Analyze complex computer vision problems and design a solution for various problems
 
+# Previous courses ive taken that are relivant 
+#### CSCI 2
+#### CSCI 1
+#### Digital Logic
+#### Embedded systems
+#### Applications of embedded systems
+
+
 # Goals
 
 I want to earn a bachelor’s degree from the University of Colorado Boulder in a 4 year time span graduating in the year 2027.  
