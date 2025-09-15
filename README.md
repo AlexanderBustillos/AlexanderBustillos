@@ -4,6 +4,10 @@ I am currently a student at CU Boulder. I enjoy coding and am fascinated with em
 ![CUBoulder Image](https://www.cu.edu/sites/default/files/cu-standalone.png)
 
 ### Languages I use/used
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderBustillos&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderBustillos&layout=compact)
+
 ![C](https://img.shields.io/badge/Code-C-blue?logo=c)
 ![C++](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
