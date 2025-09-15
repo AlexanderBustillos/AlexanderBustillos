@@ -1,5 +1,6 @@
 ### Hi there 👋 I  am Alex 😸
 I am currently a student CU Boulder, I enjoy coding and fascinated with embeded systems and robotics.
+
 ![CUBoulder Image](https://www.cu.edu/sites/default/files/cu-standalone.png)
 
 ### Languages I use/used
