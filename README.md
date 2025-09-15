@@ -1,9 +1,9 @@
-# Hi there 👋 I  am Alex 😸
+### Hi there 👋 I  am Alex 😸
 I am currently a student CU Boulder
 
 ![CUBoulder Image](https://www.cu.edu/sites/default/files/cu-standalone.png)
 
-# I am currently learning
+### I am currently learning
 #### ECEN 2000 - 400: ECE as a profession 
 Provides an introduction to the profession of electrical and computer engineering. Specific topics  
 addressed include career opportunities in electrical and computer engineering, internship search  
