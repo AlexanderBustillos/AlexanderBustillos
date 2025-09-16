@@ -23,42 +23,10 @@ I am pursuing a bachelor's degree in electrical and computer engineering, gradua
 
 ### I am currently learning ✏️
 #### ECEN 2000 - 400: ECE as a profession 
-Provides an introduction to the profession of electrical and computer engineering. Specific topics  
-addressed include career opportunities in electrical and computer engineering, internship search  
-skills, expectations for professional behavior in the classroom and in industry, and current  
-events/ethics topics relevant to the field. Course format may include additional evening/weekend  
-activities.
 ####  ECEN 3250 - 400: Microelectronics
-This class is intended to provide you with microelectronic fundamentals so that you have a background in discrete and/or integrated circuit design. The scope of the field and material covered in the textbook is broad.
-
 ####  ECEN 3350 - 400 Programming Digital Systems
-Architecture defines how a computer or microcontroller  
-processes data and instructions, shaping its structure and  
-functionality.  
-Universal Application:  
-All computing devices, from simple microcontrollers to  
-Supercomputers rely on architecture to manage tasks and  
-communication.  
-Impact on Performance:  
-Architecture directly influences system efficiency, speed, and  
-capability, making it crucial for optimizing performance
-
 #### ECEN 3810 - 401: Intro to Probability
-
-It covers the fundamentals of probability theory and treats the random variables and random processes  
-of greatest importance in electrical engineering.  Provides a foundation for the study of communication  
-theory, control theory, reliability theory, and optics.
-
 #### CSCI 496 - 28192: Computer Vision
-Explain the mathematical foundations of image processing through functions and matrices.  
-Analyze and apply feature detection and extraction.  
-Analyze and solve complex vision problems using various techniques.  
-Independently learn and use new technologies.  
-Upon successful completion of this course, students will be able to:  
-Describe image processing and analysis  
-Apply computer vision topics to applications outside of the classroom  
-Develop a deep understanding of various advanced computer vision techniques and algorithms  
-Analyze complex computer vision problems and design a solution for various problems
 
 ### Previous courses I've taken that are relevant 📋
 #### CSCI 111 CS1: Foundations of Computer Science
