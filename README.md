@@ -1,5 +1,7 @@
 ### Hi there 👋 I  am Alex 😸
-I am currently a student at CU Boulder. I enjoy coding and am fascinated with embedded systems and robotics.
+#### About me
+I am currently a student at CU Boulder. I enjoy coding and am fascinated with embedded systems and robotics. I am familiar with microcontrollers like the ESP32 using C and FPGAs using Verilog.
+I am pursuing a bachelor's degree in electrical and computer engineering, graduating in 2027.
 
 ![CUBoulder Image](https://www.cu.edu/sites/default/files/cu-standalone.png)
 
