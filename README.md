@@ -22,19 +22,18 @@ I am pursuing a bachelor's degree in electrical and computer engineering, gradua
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### I am currently learning ✏️
-#### ECEN 2000 - 400: ECE as a profession 
-####  ECEN 3250 - 400: Microelectronics
-####  ECEN 3350 - 400 Programming Digital Systems
-#### ECEN 3810 - 401: Intro to Probability
-#### CSCI 496 - 28192: Computer Vision
+ECEN 2000 - 400: ECE as a profession 
+ECEN 3250 - 400: Microelectronics
+ECEN 3350 - 400 Programming Digital Systems
+ECEN 3810 - 401: Intro to Probability
+CSCI 496 - 28192: Computer Vision
 
 ### Previous courses I've taken that are relevant 📋
-#### CSCI 111 CS1: Foundations of Computer Science
-#### CSCI 112 CS2: Data Structures
-#### EECE 235 Digital Logic
-#### EECE 337 Embedded Systems
-#### EECE 244 Applications of Embedded Systems
-
+CSCI 111 CS1: Foundations of Computer Science
+CSCI 112 CS2: Data Structures
+EECE 235 Digital Logic
+EECE 337 Embedded Systems
+EECE 244 Applications of Embedded Systems
 
 ### Goals 📚
 
