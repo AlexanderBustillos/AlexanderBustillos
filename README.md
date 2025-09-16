@@ -52,3 +52,10 @@ GitHub: https://github.com/AlexanderBustillos
 Personal Email: alexanderbustillos1@gmail.com
 
 School Email: aobustillos@mavs.coloradomesa.edu
+
+### My Projects and Repositories
+Image manipulation: https://github.com/AlexanderBustillos/ComputerVision-aobustillos.git
+GUI: https://github.com/AlexanderBustillos/SimpleMatlabGUI.git
+Coding an ESP32 in Eclipse: https://github.com/AlexanderBustillos/EmbededSystems.git
+
+
