@@ -56,11 +56,11 @@ Develop a deep understanding of various advanced computer vision techniques and 
 Analyze complex computer vision problems and design a solution for various problems
 
 ### Previous courses I've taken that are relevant 📋
-#### CSCI 2
-#### CSCI 1
-#### Digital Logic
-#### Embedded systems
-#### Applications of embedded systems
+#### CSCI 111 CS1: Foundations of Computer Science
+#### CSCI 112 CS2: Data Structures
+#### EECE 235 Digital Logic
+#### EECE 337 Embedded Systems
+#### EECE 244 Applications of Embedded Systems
 
 
 ### Goals 📚
