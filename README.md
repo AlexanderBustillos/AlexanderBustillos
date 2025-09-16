@@ -61,6 +61,6 @@ GUI: https://github.com/AlexanderBustillos/SimpleMatlabGUI.git
 
 Coding an ESP32 in Eclipse: https://github.com/AlexanderBustillos/EmbededSystems.git
 
-Coding an FPAG in verilog: https://github.com/AlexanderBustillos/DigitalLogic.git
+Coding an FPGA in Verilog: https://github.com/AlexanderBustillos/DigitalLogic.git
 
 
