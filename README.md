@@ -11,10 +11,15 @@ I am pursuing a bachelor's degree in electrical and computer engineering, gradua
 ![C](https://img.shields.io/badge/Code-C-blue?logo=c)
 ![C++](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
-![Arduino](https://img.shields.io/badge/Hardware-Arduino-00979D?logo=arduino&logoColor=white)
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-red)
 ![MATLAB](https://img.shields.io/badge/Tool-MATLAB-orange?logo=mathworks)
 
+### IDEs I use/used
+
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### I am currently learning ✏️
 #### ECEN 2000 - 400: ECE as a profession 
