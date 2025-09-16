@@ -5,7 +5,7 @@ I am pursuing a bachelor's degree in electrical and computer engineering, gradua
 
 ![CUBoulder Image](https://www.cu.edu/sites/default/files/cu-standalone.png)
 
-### Languages I use/used
+### Languages and Tools I use/used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderBustillos&layout=compact)
 
 ![C](https://img.shields.io/badge/Code-C-blue?logo=c)
